@@ -1,2 +1,2 @@
-# toll-2017
-educational project "Java Developer"
+# TusurProject
+My project for course "Java Developer"
